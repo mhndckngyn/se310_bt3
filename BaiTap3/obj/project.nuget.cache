@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "se1Pjx7FSB6UCNU+58poRrSIFhruOOqjTD0fffk92ay7q5rPQ25UqOGVTYZf49dNrq1FskCEA8x2BCfcmqTH0Q==",
+  "success": true,
+  "projectFilePath": "/home/ducminh/Downloads/se310_bt3/BaiTap3/BaiTap3.csproj",
+  "expectedPackageFiles": [
+    "/home/ducminh/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.33/microsoft.netcore.app.host.linux-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
